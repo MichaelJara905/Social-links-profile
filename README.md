@@ -15,8 +15,8 @@ In this project, I created a simple but stylish social profile that displays nam
 ![](./design/activeStates.png)
 
 ## 🌐 Live Preview
-- 🔗 **Live web page**: [https://michaeljara905.github.io/Social-links-profile/](https://michaeljara905.github.io/Blog-Preview-Card-Personal/)
-- 💻 **Source code**: [https://github.com/MichaelJara905/Social-links-profile.git](https://github.com/MichaelJara905/Blog-Preview-Card-Personal.git)
+- 🔗 **Live web page**: [https://michaeljara905.github.io/Social-links-profile/](https://michaeljara905.github.io/Social-links-profile/)
+- 💻 **Source code**: [https://github.com/MichaelJara905/Social-links-profile.git](https://github.com/MichaelJara905/Social-links-profile.git)
 
 ## 🛠️ Technology stack
 - HTML5 semantic markup
